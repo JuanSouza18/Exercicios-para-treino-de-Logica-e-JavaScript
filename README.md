@@ -1,13 +1,22 @@
-🧠 Mini Projetos em JavaScript
+# 🧠 Mini Projetos em JavaScript
 
-Este repositório contém mini projetos desenvolvidos para praticar lógica de programação e reforçar meus conhecimentos em JavaScript.
+Este repositório contém **mini projetos desenvolvidos para praticar lógica de programação** e **reforçar meus conhecimentos em JavaScript**.
 
-🚀 Objetivo
+---
+
+## 🚀 Objetivo
 
 Criar pequenos desafios e projetos práticos que ajudem a:
 
-Melhorar o pensamento lógico e a resolução de problemas;
+- 💡 Melhorar o pensamento lógico e a resolução de problemas;  
+- 🧩 Aplicar a sintaxe e os conceitos principais do JavaScript;  
+- 🔁 Ganhar mais confiança na linguagem através da prática constante.
 
-Aplicar a sintaxe e os conceitos principais do JavaScript;
+---
 
-Ganhar mais confiança na linguagem através da prática constante.
+## 💻 Tecnologias Utilizadas
+
+- **JavaScript (ES6+)**  
+- **Node.js** *(opcional, para execução dos códigos no terminal)*  
+
+---
